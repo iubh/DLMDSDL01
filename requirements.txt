@@ -10,3 +10,6 @@ pydot==1.4.1
 #progress bar - but it doesn't work
 #tensorflow-addons==0.9.1
 #typeguard==2.7.1
+
+#access to Google Trends
+pytrends==4.7.2
